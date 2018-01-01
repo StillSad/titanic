@@ -1,4 +1,4 @@
-ssengerId => 乘客ID
+PassengerId => 乘客ID
 Pclass => 乘客等级(1/2/3等舱位)
 Name => 乘客姓名
 Sex => 性别
